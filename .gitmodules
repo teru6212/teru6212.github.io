@@ -1,0 +1,3 @@
+[submodule "terusan097/themes/fluency"]
+	path = terusan097/themes/fluency
+	url = https://github.com/wayjam/hugo-theme-fluency.git

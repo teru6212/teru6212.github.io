@@ -6,7 +6,16 @@
     <description>Recent content on terusan Blog (Hugo)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Jan 2022 19:45:53 +0900</lastBuildDate><atom:link href="https://terusan097.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jan 2022 19:58:57 +0900</lastBuildDate><atom:link href="https://terusan097.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://terusan097.github.io/about/about/</link>
+      <pubDate>Thu, 20 Jan 2022 19:58:57 +0900</pubDate>
+      
+      <guid>https://terusan097.github.io/about/about/</guid>
+      <description>About This Page terusan&amp;rsquo;s Blog Pages.</description>
+    </item>
+    
     <item>
       <title>Hello (Picture Test)</title>
       <link>https://terusan097.github.io/posts/pic-test/</link>

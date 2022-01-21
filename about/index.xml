@@ -6,14 +6,17 @@
     <description>Recent content in Abouts on terusan Blog (Hugo)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Jan 2022 19:58:57 +0900</lastBuildDate><atom:link href="https://terusan097.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jan 2022 21:44:45 +0900</lastBuildDate><atom:link href="https://terusan097.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://terusan097.github.io/about/about/</link>
-      <pubDate>Thu, 20 Jan 2022 19:58:57 +0900</pubDate>
+      <pubDate>Fri, 21 Jan 2022 21:44:45 +0900</pubDate>
       
       <guid>https://terusan097.github.io/about/about/</guid>
-      <description>About This Page terusan&amp;rsquo;s Blog Pages.</description>
+      <description>PCハード関係履歴  EPSONのNEC PC9801互換機(EPSON PC-286L PC-386Note A PC-486SE PC-486Note AT) Thinkpad(IBM iSeries 1200、R32、X24、Lenovo Edge Type0578) IBM Aptiva E ショップブランドのPC(2台) MacBook Pro Late2016(旧 Intel) MacBook Pro Late2020(現 Intel) iMac Late2017(現 Intel)  ※持ってはいなかったけど、SHARPのMZシリーズとかMSXパソコンとか・・・    OS関係  FreeBSD：昔から使ってるので使いやすい、Portsが最近少ない気がするんだが・・・ NetBSD：Raspberry Piに。FreeBSD/Piがα版だったときに入れてた。 Debian(Raspbian)：Raspberry Piで使ってるので。
+ググりながらならなんとか。 Ubuntu：Debianの選択肢が無い時、これはググりながら恐る恐る。  ※誤解が多いようですが、macOSはBSD系OSです。 Linuxではありません。    サーバー・ネットワーク関係  ※最近やってないので、追いかけられない。  apache、nginx、SSHあたりの構築なら何とか出来る。 DNSやmail関係は、今出来るかどうか？
+Postfixは使ったことある。 DBも今出来るかなぁ？ FW FreeBSDのipfwなら出来る。ipf(IP Filter)も触ったことはある。 Windowsネットワーク？
+なにそれおいしいの？    言語関係  Python (Just a little) Perl (Just a little) C (Just a little) Go (最近触りだした) (fortran(昔とちがーーうっ！))  趣味的なもの  登山(中学からやっては止めやっては止めで、なぜかけっこう続いてる。) ボルダリング(最近行ってないなぁ) キャンプも好きだけど、最近登山のついでしかしてない。 車に乗ってどこか行くのも好き。 カメラ(一眼レフは持ってるけど、最近コンデジ持ち歩いてスナップ写真ばかり撮っている。) あと何だ、PC的なものか？ 魚釣り最近してないなぁ。ルアーやフライも持ってるんだけど。  </description>
     </item>
     
   </channel>

@@ -14,7 +14,7 @@
       
       <guid>https://terusan097.github.io/about/</guid>
       <description>PCハード関係履歴  EPSONのNEC PC9801互換機(EPSON PC-286L PC-386Note A PC-486SE PC-486Note AT) Thinkpad(IBM iSeries 1200、R32、X24、Lenovo Edge Type0578) IBM Aptiva E ショップブランドのPC(2台) MacBook Pro Late2016(旧 Intel) MacBook Pro Late2020(現 Intel) iMac Late2017(現 Intel)  ※持ってはいなかったけど、SHARPのMZシリーズとかMSXパソコンとか・・・    OS関係  FreeBSD：昔から使ってるので使いやすい、Portsが最近少ない気がするんだが・・・ NetBSD：Raspberry Piに。FreeBSD/Piがα版だったときに入れてた。 Debian(Raspbian)：Raspberry Piで使ってるので。
-ググりながらならなんとか。 Ubuntu：Debianの選択肢が無い時、これはググりながら恐る恐る。  ※誤解が多いようですが、macOSはBSD系OSです。 Linuxではありません。    サーバー・ネットワーク関係  ※最近やってないので、追いかけられない。  apache、nginx、SSHあたりの構築なら何とか出来る。 DNSやmail関係は、今出来るかどうか？
+ググりながらならなんとか。 Ubuntu：Debianの選択肢が無い時、これはググりながら恐る恐る。  最近触ってないけど、昔SunOS4(Solaris1.0) SunOS5(Solaris7,8あたり)とOpenSolarisあたりは触ったことあります。 ※誤解が多いようですが、macOSはBSD系OSです。 Linuxではありません。    サーバー・ネットワーク関係  ※最近やってないので、追いかけられない。  apache、nginx、SSHあたりの構築なら何とか出来る。 DNSやmail関係は、今出来るかどうか？
 Postfixは使ったことある。 DBも今出来るかなぁ？ FW FreeBSDのipfwなら出来る。ipf(IP Filter)も触ったことはある。 Windowsネットワーク？
 なにそれおいしいの？    言語関係  Python (Just a little) Perl (Just a little) C (Just a little) Go (最近触りだした) (fortran(昔とちがーーうっ！))  趣味的なもの  登山(中学からやっては止めやっては止めで、なぜかけっこう続いてる。) ボルダリング(最近行ってないなぁ) キャンプも好きだけど、最近登山のついでしかしてない。 車に乗ってどこか行くのも好き。 カメラ(一眼レフは持ってるけど、最近コンデジ持ち歩いてスナップ写真ばかり撮っている。) あと何だ、PC的なものか？ 魚釣り最近してないなぁ。ルアーやフライも持ってるんだけど。  </description>
     </item>

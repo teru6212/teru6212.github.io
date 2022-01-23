@@ -13,8 +13,18 @@
       <pubDate>Thu, 13 Jan 2022 19:45:53 +0900</pubDate>
       
       <guid>https://terusan097.github.io/posts/pic-test/</guid>
-      <description>Test  </description>
-    </item>
+     <description>Test  </description>
+<content:encoded>
+        <![CDATA[
+        <h3 id="test">Test</h3>
+<!-- raw HTML omitted -->
+<figure><img src="/images/4wd.jpeg"
+         alt="4wd" width="300"/>
+</figure>
+
+
+        ]]>
+</content:encoded>    </item>
     
   </channel>
 </rss>

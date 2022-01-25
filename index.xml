@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>terusan Blog (Hugo)</title>
+    <link>https://terusan097.github.io/</link>
+    <description>Recent content on terusan Blog (Hugo)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 13 Jan 2022 19:45:53 +0900</lastBuildDate><atom:link href="https://terusan097.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+<item>
+	<title>Not Stable Hugo</title>
+	<link>https://terusan097.github.io/posts/notstablehugo/</link>
+	<pubDate>Tue, 25 Jan 2022 23:35:36 +0900</pubDate>
+	
+    <guid>https://terusan097.github.io/posts/notstablehugo/</guid>
+	<description>Not Stable Hugo</description>
+</item>
+
+<item>
+	<title>About</title>
+	<link>https://terusan097.github.io/about/</link>
+	<pubDate>Fri, 21 Jan 2022 21:44:45 +0900</pubDate>
+	
+	<guid>https://terusan097.github.io/about/</guid>
+<<<<<<< HEAD
+	<description>PCハード関係履歴  EPSONのNEC PC9801互換機(EPSON PC-286L PC-386Note A PC-486SE PC-486Note AT) Thinkpad(IBM iSeries 1200、R32、X24、Lenovo Edge Type0578) IBM Aptiva E ショップブランドのPC(2台) MacBook Pro Late2016(旧 Intel) MacBook Pro Late2020(現 Intel) iMac Late2017(現 Intel)  ※持ってはいなかったけど、SHARPのMZシリーズとかMSXパソコンとか･･･</description>
+=======
+	<description>PCハード関係履歴  EPSONのNEC PC9801互換機(EPSON PC-286L PC-386Note A PC-486SE PC-486Note AT) Thinkpad(IBM iSeries 1200、R32、X24、Lenovo Edge Type0578) IBM Aptiva E ショップブランドのPC(2台) MacBook Pro Late2016(旧 Intel) MacBook Pro Late2020(現 Intel) iMac Late2017(現 Intel)  ※持ってはいなかったけど、SHARPのMZシリーズとかMSXパソコンとか・・・</description>
+>>>>>>> 4c021fe0ed906c6c40affdeb553700e9294f8696
+</item>
+    
+<item>
+	<title>Hello (Picture Test)</title>
+	<link>https://terusan097.github.io/posts/pic-test/</link>
+	<pubDate>Fri, 21 Jan 2022 0:03:00 +0900</pubDate>
+	
+	<guid>https://terusan097.github.io/posts/pic-test/</guid>
+	<description>Hello (Picture Test)</description>
+</item>
+	  
+<item>
+	<title>Hello Test</title>
+	<link>https://terusan097.github.io/posts/hello-test/</link>
+	<pubDate>Fri, 21 Jan 2022 0:03:00 +0900</pubDate>
+	
+	<guid>https://terusan097.github.io/posts/hello-test/</guid>
+	<description>Hello Test</description>
+</item>
+    
+    </channel>
+</rss>

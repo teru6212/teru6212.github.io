@@ -6,25 +6,37 @@
     <description>Recent content in Posts on terusan Blog (Hugo)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Jan 2022 19:45:53 +0900</lastBuildDate><atom:link href="https://terusan097.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-<item>
-	<title>Hello (Picture Test)</title>
-	<link>https://terusan097.github.io/posts/pic-test/</link>
-	<pubDate>Thu, 13 Jan 2022 19:45:53 +0900</pubDate>
-	
-	<guid>https://terusan097.github.io/posts/pic-test/</guid>
-	<description>Test  </description>
-</item>
+    <lastBuildDate>Tue, 25 Jan 2022 23:35:36 +0900</lastBuildDate><atom:link href="https://terusan097.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Not Stable Hugo</title>
+      <link>https://terusan097.github.io/posts/notstablehugo/</link>
+      <pubDate>Tue, 25 Jan 2022 23:35:36 +0900</pubDate>
+      
+      <guid>https://terusan097.github.io/posts/notstablehugo/</guid>
+      <description>Hugoの設定がいまいち安定してないので、きちんと出力されないなぁ・・・
+特にRSS廻りがちゃんと出力されない。
+テーマ「noteworthy」の設定の問題だと思うんだけど、違うかなぁ？
+原因がわからん・・・</description>
+    </item>
     
-<item>
-	<title>Hello Test</title>
-	<link>https://terusan097.github.io/posts/hello-test/</link>
-	<pubDate>Thu, 13 Jan 2022 19:09:41 +0900</pubDate>
-	
-	<guid>https://terusan097.github.io/posts/hello-test/</guid>
-	<description>テスト
+    <item>
+      <title>Hello (Picture Test)</title>
+      <link>https://terusan097.github.io/posts/pic-test/</link>
+      <pubDate>Thu, 13 Jan 2022 19:45:53 +0900</pubDate>
+      
+      <guid>https://terusan097.github.io/posts/pic-test/</guid>
+      <description>Test  </description>
+    </item>
+    
+    <item>
+      <title>Hello Test</title>
+      <link>https://terusan097.github.io/posts/hello-test/</link>
+      <pubDate>Thu, 13 Jan 2022 19:09:41 +0900</pubDate>
+      
+      <guid>https://terusan097.github.io/posts/hello-test/</guid>
+      <description>テスト
 Github Pagesのテスト</description>
-</item>
+    </item>
     
-    </channel>
+  </channel>
 </rss>

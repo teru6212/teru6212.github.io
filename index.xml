@@ -17,12 +17,21 @@
 </item>
     
 <item>
-	<title>Posts</title>
-	<link>https://terusan097.github.io/posts/</link>
-	<pubDate>Thu, 13 Jan 2022 19:45:53 +0900</pubDate>
+	<title>Hello (Picture Test)</title>
+	<link>https://terusan097.github.io/posts/pic-test/</link>
+	<pubDate>Fri, ２１ Jan 2022 0:03:00 +0900</pubDate>
 	
-	<guid>https://terusan097.github.io/posts/</guid>
-	<description></description>
+	<guid>https://terusan097.github.io/posts/pic-test/</guid>
+	<description>Hello (Picture Test)</description>
+</item>
+	  
+<item>
+	<title>Hello Test</title>
+	<link>https://terusan097.github.io/posts/hello-test/</link>
+	<pubDate>Fri, ２１ Jan 2022 0:03:00 +0900</pubDate>
+	
+	<guid>https://terusan097.github.io/posts/hello-test/</guid>
+	<description>Hello Test</description>
 </item>
     
     </channel>

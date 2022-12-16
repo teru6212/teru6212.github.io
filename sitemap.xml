@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://terusan097.github.io/posts/</loc>
+    <lastmod>2022-12-17T00:30:05+09:00</lastmod>
+  </url><url>
+    <loc>https://terusan097.github.io/</loc>
+    <lastmod>2022-12-17T00:30:05+09:00</lastmod>
+  </url><url>
+    <loc>https://terusan097.github.io/posts/anime/</loc>
+    <lastmod>2022-12-17T00:30:05+09:00</lastmod>
+  </url><url>
     <loc>https://terusan097.github.io/tags/favicon/</loc>
     <lastmod>2022-01-26T21:32:38+09:00</lastmod>
   </url><url>
@@ -11,13 +20,7 @@
     <loc>https://terusan097.github.io/tags/pic/</loc>
     <lastmod>2022-01-26T21:32:38+09:00</lastmod>
   </url><url>
-    <loc>https://terusan097.github.io/posts/</loc>
-    <lastmod>2022-01-26T21:32:38+09:00</lastmod>
-  </url><url>
     <loc>https://terusan097.github.io/tags/</loc>
-    <lastmod>2022-01-26T21:32:38+09:00</lastmod>
-  </url><url>
-    <loc>https://terusan097.github.io/</loc>
     <lastmod>2022-01-26T21:32:38+09:00</lastmod>
   </url><url>
     <loc>https://terusan097.github.io/tags/hugo/</loc>

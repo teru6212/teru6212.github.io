@@ -1,4 +1,4 @@
-&lt;?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>terusan Blog (Hugo)</title>
@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Wed, 26 Jan 2022 21:32:38 +0900</lastBuildDate><atom:link href="https://terusan097.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
+
+    <item>
+      <title>超時空世紀オーガス</title>
+      <link>https://terusan097.github.io/posts/changefav/</link>
+      <pubDate>Sat, 17 Dec 2022 01:56:00 +0900</pubDate>
+      
+      <guid>https://terusan097.github.io/posts/changefav/</guid>
+      <description>試しにfaviconをダウンロードして(ICOOON MONOさん)、Hugoの規定の大きさにセットして変更してみた。</description>
+    </item>
+
     <item>
       <title>faviconを変えてみた</title>
       <link>https://terusan097.github.io/posts/changefav/</link>
